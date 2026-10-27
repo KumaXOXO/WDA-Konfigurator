@@ -24,3 +24,4 @@ locales/_template.json
 PRIVATE.md
 private.cmd
 .git-private/
+/.gitattributes
