@@ -1,0 +1,26 @@
+# Microsoft files - never redistribute (see THIRD-PARTY-NOTICES.md)
+app-source/
+firmware/**/*.sbin
+firmware/**/*.sign
+firmware/**/*.part
+firmware/**/version.xml
+build/thumbs/
+
+# Build output
+*.exe
+build/wda.ico
+__pycache__/
+*.pyc
+.venv*/
+
+# Private recordings / diagnostics
+mitschnitt/
+*.etl
+*.pcapng
+diagnose-*.txt
+locales/_template.json
+
+# Private repo helpers (full archive incl. Microsoft material)
+PRIVATE.md
+private.cmd
+.git-private/

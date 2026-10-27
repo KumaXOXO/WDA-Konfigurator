@@ -1,0 +1,16 @@
+{
+  "device_type": "Gen-3",
+  "version": "3.9520.47",
+  "release_date": "11/11/2021",
+  "file": "WirelessDisplayAdapterFirmware_30.sbin",
+  "size": 128156708,
+  "sha256": "2ed7910a5e2ec2b79c047865104d5e47406f49982cef8b95c9343e0fcd2a2670",
+  "source": "https://go.microsoft.com/fwlink/?LinkID=2130433",
+  "downloaded": "2026-10-27",
+  "signature": {
+    "file": "WirelessDisplayAdapterSignature_30.sign",
+    "size": 256,
+    "sha256": "d3e0d78ba7f23f47f8a2591b4c8410f0ba5e09de7b32beda5c434bbbdf60ec11",
+    "source": "https://go.microsoft.com/fwlink/?LinkID=2130316"
+  }
+}

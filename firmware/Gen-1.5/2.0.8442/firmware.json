@@ -1,0 +1,10 @@
+{
+  "device_type": "Gen-1.5",
+  "version": "2.0.8442",
+  "release_date": "10/28/2020",
+  "file": "WirelessDisplayAdapterFirmware_20.sbin",
+  "size": 26084208,
+  "sha256": "dfc846b75843836e021e92d05be70c01045a1684309abadcbf449ceae37dccdd",
+  "source": "https://go.microsoft.com/fwlink/?LinkID=618364 -> https://download.microsoft.com/download/6/1/c/61c9b497-767d-4253-910f-cf51d4d95b1b/FW_2.0.8442_image.zip",
+  "downloaded": "2026-10-27"
+}

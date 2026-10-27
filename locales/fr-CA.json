@@ -1,0 +1,9 @@
+{
+"_fallback": "fr-FR",
+"Choose a password you don't use for email or other accounts. 6–64 characters: a–z, A–Z, 0–9, + - _ ( ) { } [ ]": "Choisissez un mot de passe que vous n'utilisez pas pour votre courriel ou d'autres comptes. 6 à 64 caractères : a–z, A–Z, 0–9, + - _ ( ) { } [ ]",
+"Upload your own image …": "Téléverser votre propre image …",
+"Upload custom wallpaper?": "Téléverser un fond d'écran personnalisé ?",
+"Upload": "Téléverser",
+"Uploading wallpaper {file} …": "Téléversement du fond d'écran {file} …",
+"Upload aborted after {sent:.1f} of {total:.1f} MB ({cause}). Adapter response: {response}": "Téléversement interrompu après {sent:.1f} sur {total:.1f} Mo ({cause}). Réponse de l'adaptateur : {response}"
+}

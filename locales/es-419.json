@@ -1,0 +1,15 @@
+{
+"_fallback": "es-ES",
+"Upload your own image …": "Cargar una imagen propia …",
+"Upload custom wallpaper?": "¿Cargar un fondo de pantalla propio?",
+"Upload": "Cargar",
+"Uploading wallpaper {file} …": "Cargando el fondo de pantalla {file} …",
+"Upload aborted after {sent:.1f} of {total:.1f} MB ({cause}). Adapter response: {response}": "Carga interrumpida tras {sent:.1f} de {total:.1f} MB ({cause}). Respuesta del adaptador: {response}",
+"Plug in the adapter": "Conectar el adaptador",
+"Press the Windows logo key + K and select the adapter in the list. The PC's screen appears on the display.": "Presione la tecla del logotipo de Windows + K y seleccione el adaptador en la lista. La pantalla de la PC aparece en el monitor.",
+"Please press the Windows logo key + K and select the adapter.": "Presione la tecla del logotipo de Windows + K y seleccione el adaptador.",
+"Press the Windows logo key + K or open the action center and select your adapter. Once connected, the adapter is detected here automatically.": "Presione la tecla del logotipo de Windows + K o abra el centro de actividades y seleccione su adaptador. Una vez conectado, el adaptador se detecta aquí automáticamente.",
+"Protects this adapter's settings. 6–64 characters: a–z, A–Z, 0–9, + - _ ( ) { } [ ]. Forgot it? Hold the reset button on the adapter for 10 seconds.": "Protege la configuración de este adaptador. 6–64 caracteres: a–z, A–Z, 0–9, + - _ ( ) { } [ ]. ¿La olvidó? Mantenga presionado el botón de restablecimiento del adaptador durante 10 segundos.",
+"When connecting, the adapter shows a PIN on the display that must be entered on the PC. The adapter generates the PIN; it can't be chosen.": "Al conectarse, el adaptador muestra en la pantalla un PIN que debe escribirse en la PC. El PIN lo genera el adaptador; no se puede elegir.",
+"From now on, the adapter shows a PIN when a new device connects, which must be entered on the PC.": "A partir de ahora, el adaptador mostrará un PIN al conectarse un nuevo dispositivo, que deberá escribirse en la PC."
+}
